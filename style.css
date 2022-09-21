@@ -1,0 +1,28 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+
+.movie-head i{
+    float: right;
+}
+
+.modal-body{
+    text-align: center;
+}
+.modal-context{
+    margin-top: 100px;
+}
